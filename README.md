@@ -1,0 +1,3 @@
+# Go Functional Test Example
+
+
